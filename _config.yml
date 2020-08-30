@@ -110,4 +110,7 @@ footer_links:
     icon: fab fa-facebook
   - title: Feed
     url: atom.xml
-    icon: fas fa-rss-square 
+    icon: fas fa-rss-square
+  - title: Instagram
+    url: https://www.instagram.com/champion_grip/
+    icon: fab fa-instagram
